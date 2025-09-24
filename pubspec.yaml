@@ -9,7 +9,7 @@ environment:
 dependencies:
   charset_converter: ^2.0.0
   esc_pos_utils:
-    git: https://github.com/rizaldi-wiratama/esc_pos_utils
+    git: https://github.com/runchise/esc_pos_utils
   flutter:
     sdk: flutter
   image: ^3.0.2
